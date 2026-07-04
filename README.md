@@ -35,4 +35,6 @@ IBM HR Analytics Employee Attrition & Performance Dataset
 
 ## Author
 
-Jose Priyanth Shervin
+Jose Priyanth Shervin K
+
+Artificial Intelligence and Data Science Student
